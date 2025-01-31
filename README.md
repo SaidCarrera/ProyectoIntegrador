@@ -1,7 +1,5 @@
 # Sistema de Gestión de Bibliotecas Web
 
-![Banner del Proyecto](https://via.placeholder.com/1200x400) <!-- Puedes agregar una imagen de banner aquí -->
-
 Este proyecto es un sistema web moderno desarrollado para la gestión eficiente de bibliotecas. El sistema permite a los usuarios y administradores gestionar libros, reservas, compras y usuarios de manera automatizada y segura. Está diseñado para optimizar los procesos de las bibliotecas tradicionales, ofreciendo una solución integral y escalable.
 
 ## Tabla de Contenidos
